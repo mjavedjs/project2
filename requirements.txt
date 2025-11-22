@@ -6,4 +6,3 @@ lxml
 matplotlib
 seaborn
 plotly
-pyodbc
