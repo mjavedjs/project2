@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+plotly
+pyodbc
