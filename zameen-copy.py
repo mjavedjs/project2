@@ -7,7 +7,6 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import re
-import pyodbc
 import streamlit as st
 import matplotlib.pyplot as plt
 import seaborn as sns
